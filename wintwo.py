@@ -18,4 +18,3 @@ def weight_to_height():
         else:
             print("Looks like you currently have an increased risk of insulin resistance, type 2 diabetes and heart disease!")
 
-weight_to_height()
